@@ -1,0 +1,21 @@
+.no-margin {
+    margin : 0px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.white-font {
+    color: white;
+}
+
+#page-title {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#page-background {
+    background-image: url("https://github.com/raulzinho15/mit-weblab-2023/blob/main/arcade-background.jpg?raw=true");
+    background-size: 100%;
+}
